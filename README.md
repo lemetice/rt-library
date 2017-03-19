@@ -6,5 +6,7 @@ This application is just a demo to show the GreenNav front-end. The "real" routi
 
 ```zsh
 npm install
-node demo-ucs.js
+npm run server
 ```
+
+__caution__: make sure that you have nodejs available as `node` in your path.
