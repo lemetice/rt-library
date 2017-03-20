@@ -4,7 +4,7 @@
   "description": "Green Navigation routing library",
   "main": "index.js",
   "scripts": {
-    "server": "node ./index.js"
+    "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
